@@ -1,4 +1,4 @@
-# HR analysis with classic ml models
+# HR analysis with clasic ml models
 
 Сборный проект — 2 HR-аналитика компании «Работа с заботой»
 Описание проекта
